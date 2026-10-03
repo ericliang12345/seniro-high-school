@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>高一物理｜四大基本力 × 庫侖力｜名師一頁複習</title>
+<style>
+:root{
+  --bg:#f7f9fc; --card:#ffffff; --ink:#172033; --muted:#667085;
+  --blue:#2563eb; --blue2:#eaf2ff; --green:#0f9f6e; --green2:#eafaf4;
+  --orange:#f59e0b; --orange2:#fff6df; --purple:#7c3aed; --purple2:#f3efff;
+  --red:#dc2626; --red2:#fff0f0; --line:#e5e7eb; --shadow:0 14px 34px rgba(15,23,42,.08);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;font-family:system-ui,-apple-system,"Segoe UI","Noto Sans TC","Microsoft JhengHei",sans-serif;
+  color:var(--ink);background:
+  radial-gradient(circle at 90% 0%,rgba(37,99,235,.10),transparent 28%),
+  linear-gradient(#fbfdff,#f6f8fb 55%,#f7f9fc);
+  line-height:1.75
+}
+.wrap{max-width:1120px;margin:auto;padding:0 20px}
+.hero{padding:56px 0 28px}
+.heroBox{
+  background:linear-gradient(135deg,#0f172a,#173c7c 58%,#2563eb);
+  color:#fff;border-radius:30px;padding:42px;box-shadow:0 20px 60px rgba(30,64,175,.22);
+  position:relative;overflow:hidden
+}
+.heroBox:after{content:"";position:absolute;right:-70px;top:-80px;width:250px;height:250px;border-radius:50%;background:rgba(255,255,255,.08)}
+.badge{display:inline-flex;gap:8px;align-items:center;padding:7px 12px;border:1px solid rgba(255,255,255,.2);border-radius:999px;background:rgba(255,255,255,.1);font-size:14px}
+h1{font-size:clamp(34px,5vw,58px);line-height:1.08;margin:14px 0}
+.hero p{margin:0;color:#e8eefc;font-size:18px;max-width:780px}
+.heroTags{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
+.heroTags span{padding:8px 11px;border-radius:12px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.14);font-size:14px}
+
+.sticky{position:sticky;top:0;z-index:10;background:rgba(247,249,252,.88);backdrop-filter:blur(12px);border-bottom:1px solid rgba(229,231,235,.9)}
+.nav{max-width:1120px;margin:auto;padding:11px 20px;display:flex;gap:9px;overflow:auto}
+.nav a{white-space:nowrap;text-decoration:none;color:#344054;background:#fff;border:1px solid var(--line);padding:7px 11px;border-radius:999px;font-size:14px}
+.nav a:hover{color:var(--blue);border-color:#b8c7ff}
+
+section{padding:28px 0}
+.head{display:flex;justify-content:space-between;gap:16px;align-items:end;margin-bottom:18px}
+.head h2{margin:0;font-size:30px;line-height:1.2}
+.head p{margin:0;color:var(--muted);font-size:14px}
+.grid{display:grid;gap:18px}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:24px;box-shadow:var(--shadow)}
+.card h3{margin:0 0 10px;font-size:21px}
+.card p{margin:0;color:#475467}
+.note{padding:14px 16px;border-radius:15px;margin-top:14px;font-weight:700}
+.blue{background:var(--blue2);color:#1d4ed8}.green{background:var(--green2);color:#087858}
+.orange{background:var(--orange2);color:#925f00}.purple{background:var(--purple2);color:#6d28d9}.red{background:var(--red2);color:#b42318}
+
+.formula{background:#0f172a;color:#fff;border-radius:18px;padding:18px;text-align:center;font-size:23px;font-weight:800;margin:14px 0}
+.bigword{font-size:36px;font-weight:900;line-height:1.1;margin:4px 0 8px}
+.icon{font-size:35px}
+.tag{display:inline-block;padding:5px 9px;border-radius:999px;font-size:12px;font-weight:800;margin-top:9px}
+.tagB{background:var(--blue2);color:#1d4ed8}.tagP{background:var(--purple2);color:#6d28d9}.tagG{background:var(--green2);color:#087858}.tagO{background:var(--orange2);color:#925f00}
+
+table{width:100%;border-collapse:collapse}
+th,td{padding:13px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:#f8fafc;font-size:14px;color:#344054}
+tr:last-child td{border-bottom:none}
+
+.teacher{border-left:5px solid var(--blue)}
+.teacher strong{color:#1d4ed8}
+.mindmap{display:grid;grid-template-columns:1.15fr 1fr 1fr 1fr;gap:12px}
+.mini{padding:17px;border-radius:18px;border:1px solid var(--line);background:#fff}
+.mini b{display:block;font-size:18px;margin-bottom:5px}
+.mini small{color:var(--muted)}
+
+.flow{display:grid;gap:10px}
+.flow div{display:flex;gap:12px;align-items:flex-start;background:#f8fafc;border-radius:14px;padding:13px}
+.num{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;background:#1d4ed8;color:#fff;font-weight:900;flex:0 0 32px}
+
+.qcard{background:#fff;border:1px solid var(--line);border-radius:22px;padding:24px;box-shadow:var(--shadow);margin-bottom:18px}
+.qtop{display:flex;gap:12px;align-items:flex-start}
+.qnum{width:44px;height:44px;border-radius:14px;background:#0f172a;color:#fff;display:grid;place-items:center;font-weight:900;font-size:20px;flex:0 0 44px}
+.qtitle{font-weight:800;font-size:18px}
+.choices{margin:12px 0 0;padding-left:22px;color:#475467}
+.reveal{border:0;border-radius:12px;background:#0f172a;color:#fff;padding:10px 14px;font-weight:800;cursor:pointer;margin-top:14px}
+.reveal:hover{background:#1e293b}
+.answer{display:none;margin-top:14px;border-radius:16px;padding:16px;background:#f8fafc;border:1px dashed #cbd5e1}
+.answer.show{display:block}
+.ansline{font-size:20px;font-weight:900;color:#0f766e;margin-bottom:8px}
+.trick{margin-top:10px;background:#fff7ed;color:#9a3412;padding:10px 12px;border-radius:12px;font-weight:700}
+.warn{margin-top:10px;background:#fff1f2;color:#be123c;padding:10px 12px;border-radius:12px;font-weight:700}
+
+.exam{display:flex;gap:12px;flex-wrap:wrap}
+.exam span{background:#fff;border:1px solid var(--line);padding:8px 11px;border-radius:999px;font-size:14px}
+
+.checklist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.check{padding:14px;background:#fff;border:1px solid var(--line);border-radius:16px}
+.check b{color:#1d4ed8}
+
+.quizbtn{padding:10px 13px;border-radius:12px;border:1px solid #cbd5e1;background:white;font-weight:700;cursor:pointer;margin:6px 6px 0 0}
+.result{margin-top:10px;font-weight:800}
+.footer{text-align:center;color:#667085;padding:38px 0 56px;font-size:14px}
+.print{float:right;border:0;background:#fff;color:#0f172a;padding:9px 12px;border-radius:12px;font-weight:800;cursor:pointer}
+
+@media(max-width:850px){
+  .g2,.g3,.g4,.mindmap,.checklist{grid-template-columns:1fr}
+  .heroBox{padding:28px 22px}
+  .head{align-items:flex-start;flex-direction:column}
+}
+@media print{
+  .sticky,.print,.reveal,.quizbtn{display:none!important}
+  body{background:#fff}
+  .card,.qcard{box-shadow:none;break-inside:avoid}
+}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="heroBox">
+      <button class="print" onclick="window.print()">列印 / 存成 PDF</button>
+      <div class="badge">🎯 高一物理補習班名師版</div>
+      <h1>四大基本力 × 庫侖力<br>一頁搞懂</h1>
+      <p>這頁不是要你背一堆名詞，而是教你看到題目時「第一秒要想到什麼」。先把觀念串起來，再把題目卷 6 題全部拆給你看。</p>
+      <div class="heroTags">
+        <span>四大基本力</span><span>弱作用</span><span>庫侖力</span>
+        <span>萬有引力</span><span>力的分類</span><span>受力平衡</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="sticky">
+  <div class="nav">
+    <a href="#map">總觀念</a><a href="#four">四大基本力</a><a href="#coulomb">庫侖力</a>
+    <a href="#weak">弱作用</a><a href="#questions">題目卷 1–6</a><a href="#memory">考前必背</a><a href="#quiz">自我測驗</a>
+  </div>
+</div>
+
+<main class="wrap">
+
+<section id="map">
+  <div class="head">
+    <h2>先建立「整張地圖」</h2>
+    <p>先有地圖，再記細節，會快很多。</p>
+  </div>
+
+  <div class="card teacher">
+    <h3>👨‍🏫 老師先講一句最重要的</h3>
+    <p><strong>日常生活看到的「推、拉、摩擦、支撐、彈力」幾乎都先想到電磁力；看到「原子核綁在一起」想到強力；看到「衰變」想到弱力；看到「天體、重量、自由落體」想到重力。</strong></p>
+  </div>
+
+  <div class="mindmap" style="margin-top:18px">
+    <div class="mini"><div class="icon">⚡</div><b>電磁力</b><small>最常考。彈力、摩擦力、正向力、庫侖力。</small></div>
+    <div class="mini"><div class="icon">⚛️</div><b>強力</b><small>把核子綁在原子核內。</small></div>
+    <div class="mini"><div class="icon">☢️</div><b>弱力</b><small>β 衰變、自由中子衰變。</small></div>
+    <div class="mini"><div class="icon">🌍</div><b>重力</b><small>天體、重量、萬有引力。</small></div>
+  </div>
+</section>
+
+<section id="four">
+  <div class="head">
+    <h2>四大基本力：不要背定義，背「看到什麼就想到什麼」</h2>
+    <p>考題幾乎都用例子包裝。</p>
+  </div>
+  <div class="grid g4">
+    <div class="card">
+      <div class="icon">⚡</div><div class="bigword">電磁力</div>
+      <p>帶電粒子之間的作用。日常接觸力的微觀本質大多歸在這裡。</p>
+      <span class="tag tagB">摩擦 / 彈力 / 正向力</span>
+    </div>
+    <div class="card">
+      <div class="icon">⚛️</div><div class="bigword">強力</div>
+      <p>作用在核子尺度，讓質子與中子能穩定待在原子核內。</p>
+      <span class="tag tagP">原子核</span>
+    </div>
+    <div class="card">
+      <div class="icon">☢️</div><div class="bigword">弱力</div>
+      <p>與粒子衰變有關，例如自由中子的 β 衰變。</p>
+      <span class="tag tagG">β 衰變</span>
+    </div>
+    <div class="card">
+      <div class="icon">🌍</div><div class="bigword">重力</div>
+      <p>任何有質量的物體都有重力作用，天體題尤其常見。</p>
+      <span class="tag tagO">天體 / 重量</span>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:18px">
+    <h3>最常考的分類</h3>
+    <table>
+      <tr><th>題目看到的力</th><th>你要想到</th><th>一句理由</th></tr>
+      <tr><td>彈簧恢復力</td><td><b>電磁力</b></td><td>原子間距離改變 → 電磁作用把它拉回平衡。</td></tr>
+      <tr><td>摩擦力</td><td><b>電磁力</b></td><td>接觸面原子間吸引與排斥。</td></tr>
+      <tr><td>正向力</td><td><b>電磁力</b></td><td>兩物體電子雲靠近產生排斥。</td></tr>
+      <tr><td>電子繞原子核</td><td><b>電磁力</b></td><td>正負電荷之間的庫侖引力。</td></tr>
+      <tr><td>質子＋中子待在原子核</td><td><b>強力</b></td><td>核子間的短距離強作用。</td></tr>
+      <tr><td>中子 β 衰變</td><td><b>弱力</b></td><td>粒子種類發生轉換。</td></tr>
+      <tr><td>地球公轉 / 物體重量</td><td><b>重力</b></td><td>萬有引力。</td></tr>
+    </table>
+  </div>
+</section>
+
+<section id="coulomb">
+  <div class="head">
+    <h2>庫侖力：最容易算，但最怕一開始就亂代</h2>
+    <p>先看方向，再列式。</p>
+  </div>
+  <div class="grid g2">
+    <div class="card">
+      <h3>核心公式</h3>
+      <div class="formula">F = k |q₁q₂| / r²</div>
+      <p>計算「力的大小」時用電量絕對值；正負號主要拿來判斷吸引或排斥。</p>
+      <div class="note blue">同性相斥、異性相吸。</div>
+    </div>
+    <div class="card">
+      <h3>萬有引力</h3>
+      <div class="formula">F = G Mm / r²</div>
+      <p>這兩個公式長得很像，最大的考點就是「比值時 r² 會消掉」。</p>
+      <div class="note orange">看到「電力是重力的 K 倍」→ 直接做兩個公式相除。</div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:18px">
+    <h3>平衡題固定 4 步</h3>
+    <div class="flow">
+      <div><span class="num">1</span><div><b>畫位置</b><br>先確認第三電荷要放在線段內還是外面。</div></div>
+      <div><span class="num">2</span><div><b>畫受力方向</b><br>合力為 0，兩邊力一定方向相反。</div></div>
+      <div><span class="num">3</span><div><b>列「大小相等」</b><br>F左 = F右。</div></div>
+      <div><span class="num">4</span><div><b>再代庫侖公式</b><br>通常 k、第三電荷 Q 都會直接消掉。</div></div>
+    </div>
+  </div>
+</section>
+
+<section id="weak">
+  <div class="head">
+    <h2>弱作用：這一章最容易被文字騙</h2>
+    <p>看到「衰變」就先亮燈。</p>
+  </div>
+  <div class="grid g2">
+    <div class="card">
+      <h3>自由中子會不會一直存在？</h3>
+      <div class="note red">不會。</div>
+      <p style="margin-top:12px">題卷使用的說法是：自由中子不穩定，約十多分鐘尺度會經由弱作用發生 β 衰變。</p>
+      <div class="formula">n → p + e⁻ + ν̄</div>
+    </div>
+    <div class="card">
+      <h3>強力 vs 弱力作用範圍</h3>
+      <p>依題卷：強力約 10<sup>−15</sup> m；弱力約 10<sup>−18</sup> m。</p>
+      <div class="note purple">所以：強力作用範圍 ＞ 弱力作用範圍。</div>
+      <div class="note orange">四種基本力中最弱的是「重力」，不是弱力。</div>
+    </div>
+  </div>
+</section>
+
+<section id="questions">
+  <div class="head">
+    <h2>題目卷 1～6 題：名師拆題</h2>
+    <p>先自己想，再按「看名師解法」。</p>
+  </div>
+
+  <div class="exam">
+    <span>⏱ 20 分鐘</span>
+    <span>Q1–Q4：主題題</span>
+    <span>Q5–Q6：加分題</span>
+  </div>
+
+  <div class="qcard" style="margin-top:18px">
+    <div class="qtop">
+      <div class="qnum">1</div>
+      <div>
+        <div class="qtitle">弱作用：哪個敘述錯誤？</div>
+        <ol class="choices" type="A">
+          <li>太陽產生能量的過程與弱力有關</li>
+          <li>自由空間中的中子是穩定粒子，不會衰變</li>
+          <li>弱作用有效距離小於強力</li>
+          <li>包立為 β 衰變提出電中性粒子的假設</li>
+        </ol>
+        <button class="reveal" onclick="toggleAns('a1')">看名師解法</button>
+      </div>
+    </div>
+    <div id="a1" class="answer">
+      <div class="ansline">答案：B</div>
+      <p><b>抓字眼：「自由中子」＝不穩定。</b> 自由中子會經由弱作用發生 β 衰變，所以「不會衰變」這句錯。</p>
+      <div class="trick">考場口訣：看到「衰變」→ 先想到弱力。</div>
+    </div>
+  </div>
+
+  <div class="qcard">
+    <div class="qtop">
+      <div class="qnum">2</div>
+      <div>
+        <div class="qtitle">質子與電子間：庫侖力是萬有引力的幾倍？</div>
+        <p style="margin-top:8px;color:#475467">題目給：m<sub>p</sub>=1.67×10<sup>−27</sup> kg、m<sub>e</sub>=9.1×10<sup>−31</sup> kg、e=1.6×10<sup>−19</sup> C。</p>
+        <button class="reveal" onclick="toggleAns('a2')">看名師解法</button>
+      </div>
+    </div>
+    <div id="a2" class="answer">
+      <div class="ansline">答案：C，數量級 10³⁹</div>
+      <p>最漂亮的做法不是各算一次，而是直接相除：</p>
+      <div class="formula">K = (k e² / r²) ÷ (G mₚmₑ / r²)</div>
+      <p>r² 直接消掉：</p>
+      <div class="formula">K = k e² / (G mₚmₑ) ≈ 2.28×10³⁹</div>
+      <div class="trick">名師提醒：比值題看到兩個公式都有 r²，先找能不能消。</div>
+    </div>
+  </div>
+
+  <div class="qcard">
+    <div class="qtop">
+      <div class="qnum">3</div>
+      <div>
+        <div class="qtitle">哪一個「力 → 基本作用力」配對最正確？</div>
+        <ol class="choices" type="A">
+          <li>彈簧恢復力 → 強力</li>
+          <li>繞操場旋轉的向心力 → 弱力</li>
+          <li>地板給桌子的正向力 → 重力</li>
+          <li>桌子與地板摩擦力 → 電磁力</li>
+          <li>電子繞原子核的向心力 → 重力</li>
+        </ol>
+        <button class="reveal" onclick="toggleAns('a3')">看名師解法</button>
+      </div>
+    </div>
+    <div id="a3" class="answer">
+      <div class="ansline">答案：D</div>
+      <p>彈力、摩擦力、正向力，微觀本質都屬於電磁力。電子繞原子核主要也是庫侖力＝電磁力。</p>
+      <div class="trick">超高頻口訣：接觸力大多先想「電磁力」。</div>
+    </div>
+  </div>
+
+  <div class="qcard">
+    <div class="qtop">
+      <div class="qnum">4</div>
+      <div>
+        <div class="qtitle">A 放 +q、B 放 +9q，C 放在 A、B 之間。C 受合力為 0，求 BC / AC。</div>
+        <button class="reveal" onclick="toggleAns('a4')">看名師解法</button>
+      </div>
+    </div>
+    <div id="a4" class="answer">
+      <div class="ansline">答案：D，BC / AC = 3</div>
+      <p>令 AC=x、BC=y。C 平衡，所以 A、B 對 C 的力大小相等：</p>
+      <div class="formula">k·q|Q| / x² = k·9q|Q| / y²</div>
+      <p>把 k、q、|Q| 消掉：</p>
+      <div class="formula">1/x² = 9/y² → y = 3x</div>
+      <div class="trick">強的電荷要離得比較遠。B 是 9q，所以 C 必須離 B 更遠。</div>
+    </div>
+  </div>
+
+  <div class="qcard">
+    <div class="qtop">
+      <div class="qnum">5</div>
+      <div>
+        <div class="qtitle">同密度星球分成 27 個等質量小星球，表面重力加速度變多少？</div>
+        <button class="reveal" onclick="toggleAns('a5')">看名師解法</button>
+      </div>
+    </div>
+    <div id="a5" class="answer">
+      <div class="ansline">答案：B，變成 1/3</div>
+      <p>密度不變，所以 M ∝ R³。</p>
+      <div class="formula">M' = M/27 → R' = R/3</div>
+      <p>再用表面重力：</p>
+      <div class="formula">g = GM/R²</div>
+      <p>所以：</p>
+      <div class="formula">g'/g = (1/27) ÷ (1/9) = 1/3</div>
+      <div class="trick">星球切小題：第一步先用「密度不變 → M ∝ R³」。</div>
+    </div>
+  </div>
+
+  <div class="qcard">
+    <div class="qtop">
+      <div class="qnum">6</div>
+      <div>
+        <div class="qtitle">強作用與弱作用：哪些敘述正確？（選三項）</div>
+        <ol class="choices" type="A">
+          <li>原子核中質子與質子之間，僅有強作用力</li>
+          <li>自由中子約十多分鐘會因弱作用衰變</li>
+          <li>四種基本力中最弱的是弱作用</li>
+          <li>題卷將湯川秀樹的介子理論列為強作用理論脈絡</li>
+          <li>強作用範圍比弱作用大</li>
+        </ol>
+        <button class="reveal" onclick="toggleAns('a6')">看名師解法</button>
+      </div>
+    </div>
+    <div id="a6" class="answer">
+      <div class="ansline">答案：B、D、E</div>
+      <p><b>A 錯：</b>質子之間不只強力，也有電磁力與重力。</p>
+      <p><b>B 對：</b>自由中子的衰變屬弱作用。</p>
+      <p><b>C 錯：</b>四大基本力最弱的是重力。</p>
+      <p><b>D 對：</b>依本題卷教材脈絡，湯川秀樹的介子理論用來描述核子間強作用。</p>
+      <p><b>E 對：</b>題卷給的尺度為強力約 10⁻¹⁵ m，弱力約 10⁻¹⁸ m。</p>
+      <div class="warn">最容易錯的是 A：題目出現「僅有、一定、完全」這種絕對字眼，要特別小心。</div>
+    </div>
+  </div>
+</section>
+
+<section id="memory">
+  <div class="head">
+    <h2>考前 3 分鐘，只背這 8 句</h2>
+    <p>真的來不及就看這裡。</p>
+  </div>
+  <div class="checklist">
+    <div class="check"><b>1.</b> 接觸力（摩擦、正向、彈力）→ 多半是電磁力。</div>
+    <div class="check"><b>2.</b> 原子核把質子、中子綁住 → 強力。</div>
+    <div class="check"><b>3.</b> 粒子衰變 → 弱力。</div>
+    <div class="check"><b>4.</b> 天體、重量、自由落體 → 重力。</div>
+    <div class="check"><b>5.</b> 四大基本力最弱的是重力。</div>
+    <div class="check"><b>6.</b> 強力作用範圍 ＞ 弱力作用範圍。</div>
+    <div class="check"><b>7.</b> 庫侖平衡：先畫方向，再列 F左=F右。</div>
+    <div class="check"><b>8.</b> 電力 / 重力比值：相除後 r² 通常消掉。</div>
+  </div>
+</section>
+
+<section id="quiz">
+  <div class="head">
+    <h2>最後 1 分鐘：自我測驗</h2>
+    <p>不看上面，自己回答。</p>
+  </div>
+  <div class="card">
+    <p><b>1. 摩擦力的基本作用力分類？</b></p>
+    <button class="quizbtn" onclick="quiz('r1',false)">重力</button>
+    <button class="quizbtn" onclick="quiz('r1',true)">電磁力</button>
+    <button class="quizbtn" onclick="quiz('r1',false)">弱力</button>
+    <div id="r1" class="result"></div>
+    <hr style="border:0;border-top:1px solid var(--line);margin:18px 0">
+
+    <p><b>2. 自由中子 β 衰變主要是哪種作用？</b></p>
+    <button class="quizbtn" onclick="quiz('r2',false)">強力</button>
+    <button class="quizbtn" onclick="quiz('r2',true)">弱力</button>
+    <button class="quizbtn" onclick="quiz('r2',false)">重力</button>
+    <div id="r2" class="result"></div>
+    <hr style="border:0;border-top:1px solid var(--line);margin:18px 0">
+
+    <p><b>3. +q 與 +9q 的平衡點，在兩者之間會比較靠近哪一邊？</b></p>
+    <button class="quizbtn" onclick="quiz('r3',true)">+q</button>
+    <button class="quizbtn" onclick="quiz('r3',false)">+9q</button>
+    <div id="r3" class="result"></div>
+  </div>
+</section>
+
+<div class="footer">
+  高一物理｜四大基本力 × 庫侖力｜名師複習版
+</div>
+
+</main>
+
+<script>
+function toggleAns(id){
+  document.getElementById(id).classList.toggle('show');
+}
+function quiz(id,ok){
+  const el=document.getElementById(id);
+  el.textContent=ok?'✅ 正確！你抓到觀念了。':'❌ 再想一次：先判斷題目是在講接觸、衰變、原子核，還是天體。';
+  el.style.color=ok?'#087858':'#b42318';
+}
+</script>
+</body>
+</html>
