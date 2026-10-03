@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2026-10-02 高一英文課｜完整互動教學</title>
+<style>
+:root{--bg:#f5f7fb;--panel:#fff;--text:#172033;--muted:#667085;--line:#e4e7ec;--blue:#3457d5;--soft:#eef2ff;--green:#147d52;--amber:#a15c00;--red:#b42318}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC",sans-serif;line-height:1.72}
+.hero{background:linear-gradient(135deg,#142556,#3347a9 58%,#735bd6);color:white;padding:42px 18px 28px}.wrap{max-width:1120px;margin:auto}
+.kicker{display:inline-block;padding:5px 10px;border-radius:999px;background:rgba(255,255,255,.14);font-size:12px;font-weight:800}
+h1{font-size:clamp(30px,5vw,48px);line-height:1.15;margin:12px 0 7px}.sub{opacity:.9}.hero-note{margin-top:18px;padding:13px 15px;border:1px solid rgba(255,255,255,.25);border-radius:14px;background:rgba(255,255,255,.11)}
+nav{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);overflow-x:auto}.tabs{display:flex;gap:6px;padding:9px 12px;white-space:nowrap}
+.tab{border:0;background:transparent;padding:10px 12px;border-radius:10px;font-weight:800;color:var(--muted);cursor:pointer}.tab.active{background:var(--soft);color:var(--blue)}
+main{padding:24px 14px 60px}section{display:none}section.active{display:block}.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 4px 16px rgba(16,24,40,.04);margin-bottom:18px}
+h2{margin:0 0 8px;font-size:27px}h3{margin:0 0 7px}.note{font-size:14px;color:var(--muted)}.good{padding:11px 13px;border-left:4px solid var(--green);background:#f1fbf6;border-radius:9px;margin:12px 0}.warn{padding:11px 13px;border-left:4px solid #f59e0b;background:#fff8e8;border-radius:9px;margin:12px 0}
+audio{width:100%;margin:9px 0}.jumps{display:flex;gap:7px;flex-wrap:wrap}.jumps button,.btn{border:0;border-radius:10px;padding:9px 12px;font-weight:800;cursor:pointer}.jumps button{background:#f0f3f8;color:#344054}
+mark{background:#fff1a8}
+table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}th{background:#f8f9fc;color:#475467;position:sticky;top:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}.card{border:1px solid var(--line);border-radius:14px;padding:15px;background:#fff}.term{font-weight:900;color:var(--blue);font-size:17px}.meaning{margin-top:5px;color:#344054}
+.rule{border:1px solid var(--line);border-radius:14px;padding:15px;margin:10px 0;background:#fff}.rule p{margin:0;color:#475467}
+.transrow{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:13px 0;border-bottom:1px solid var(--line)}.transrow .en{font-family:Georgia,"Times New Roman",serif;font-size:17px}.transrow .zh{color:#475467}
+.reading{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fbfcff;white-space:pre-line}.reading.en{font-family:Georgia,"Times New Roman",serif;font-size:17px}
+.summary li{margin:7px 0}
+.flash{min-height:240px;border:1px solid var(--line);border-radius:18px;background:linear-gradient(180deg,#fff,#fafbff);display:grid;place-items:center;text-align:center;padding:28px;cursor:pointer;user-select:none}.front{font-size:29px;font-weight:900;color:var(--blue)}.back{display:none;font-size:20px;max-width:760px}.flash.revealed .front{display:none}.flash.revealed .back{display:block}
+.controls{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.btn{background:var(--blue);color:white}.btn.secondary{background:#edf1f7;color:#344054}.btn.green{background:var(--green)}.progress{height:9px;border-radius:99px;background:#e8ecf2;overflow:hidden;margin-top:14px}.progress div{height:100%;background:linear-gradient(90deg,#3457d5,#735bd6);width:0}.small{display:flex;justify-content:space-between;color:var(--muted);font-size:13px;margin-top:5px}
+.memory-sentence{font-family:Georgia,"Times New Roman",serif;font-size:26px;line-height:1.7;padding:20px;border-radius:14px;background:#f7f9ff;border:1px solid #dce3ff}.blank{display:inline-block;min-width:95px;border-bottom:2px solid #8292d8;color:transparent;cursor:pointer}.blank.show{color:inherit}
+.quizq{border:1px solid var(--line);border-radius:14px;padding:15px;margin:11px 0}.quizq h4{margin:0 0 8px}.quizq label{display:block;padding:7px 8px;border-radius:8px}.quizq label:hover{background:#f7f8fb}.explain{display:none;margin-top:8px;padding:8px 10px;background:#f8fafc;border-radius:8px;color:#475467}.correct{border-color:#98d8b9;background:#f2fbf6}.wrong{border-color:#efaaa4;background:#fff5f4}.score{font-size:22px;font-weight:900;margin-top:14px}
+footer{text-align:center;padding:24px;color:var(--muted);font-size:12px}
+@media(max-width:700px){.panel{padding:16px}.transrow{grid-template-columns:1fr}table{font-size:13px}th:nth-child(4),td:nth-child(4),th:nth-child(5),td:nth-child(5){display:none}}
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+<span class="kicker">HIGH SCHOOL ENGLISH · 2026-10-02</span>
+<h1>高一英文課｜完整互動教學網站</h1>
+<div class="sub">單字・片語・文法・翻譯・文章・課堂摘要・背誦・測驗</div>
+<div class="hero-note"><b>主題：</b>Should you listen to music while studying?　｜　<b>音檔：</b>約 40:57　｜　<b>最後核心背誦：</b>Some people argue that music is actually a distraction while they hit the books.</div>
+</div></header>
+
+<nav><div class="wrap tabs" id="tabs">
+<button class="tab active" data-tab="vocab">單字</button>
+<button class="tab" data-tab="phrases">片語</button>
+<button class="tab" data-tab="grammar">文法</button>
+<button class="tab" data-tab="translation">翻譯</button>
+<button class="tab" data-tab="article">文章</button>
+<button class="tab" data-tab="summary">課堂摘要</button>
+<button class="tab" data-tab="memorize">背誦模式</button>
+<button class="tab" data-tab="quiz">測驗</button>
+</div></nav>
+
+<main class="wrap">
+
+<section id="vocab" class="active"><div class="panel">
+<h2>單字 Vocabulary</h2>
+<p class="note">重點不是只背中文意思，而是把「單字＋搭配詞＋短例句」一起記住。</p>
+<div style="overflow-x:auto"><table><thead><tr><th>單字</th><th>詞性</th><th>中文</th><th>常用搭配詞</th><th>簡單好背例句</th></tr></thead><tbody><tr><td><b>debate</b></td><td>n./v.</td><td>辯論；討論</td><td>a debate about／debate an issue</td><td><span class='en'>We had a debate about music.</span><br><span class='muted'>我們針對音樂進行了一場辯論。</span></td></tr><tr><td><b>controversy</b></td><td>n.</td><td>爭議</td><td>cause controversy／a controversy over</td><td><span class='en'>The new rule caused controversy.</span><br><span class='muted'>新規定引起了爭議。</span></td></tr><tr><td><b>actually</b></td><td>adv.</td><td>其實；事實上</td><td>actually be／actually help</td><td><span class='en'>Music can actually help me.</span><br><span class='muted'>音樂其實可以幫助我。</span></td></tr><tr><td><b>advantage</b></td><td>n.</td><td>優點；好處</td><td>an advantage of／have an advantage</td><td><span class='en'>One advantage is less stress.</span><br><span class='muted'>一個好處是壓力較小。</span></td></tr><tr><td><b>reduce</b></td><td>v.</td><td>減少；減輕</td><td>reduce stress／reduce noise／reduce risk</td><td><span class='en'>Music can reduce my stress.</span><br><span class='muted'>音樂可以減輕我的壓力。</span></td></tr><tr><td><b>alleviate</b></td><td>v.</td><td>減輕；緩和</td><td>alleviate stress／alleviate pain</td><td><span class='en'>Music may alleviate stress.</span><br><span class='muted'>音樂可能有助於減輕壓力。</span></td></tr><tr><td><b>suggest</b></td><td>v.</td><td>顯示；指出；建議</td><td>research suggests that／suggest a plan</td><td><span class='en'>Research suggests that music helps.</span><br><span class='muted'>研究顯示音樂有幫助。</span></td></tr><tr><td><b>evidence</b></td><td>n.</td><td>證據</td><td>strong evidence／evidence shows that</td><td><span class='en'>The evidence supports this idea.</span><br><span class='muted'>證據支持這個想法。</span></td></tr><tr><td><b>indicate</b></td><td>v.</td><td>顯示；指出</td><td>results indicate that／indicate a change</td><td><span class='en'>The results indicate a change.</span><br><span class='muted'>結果顯示出變化。</span></td></tr><tr><td><b>demonstrate</b></td><td>v.</td><td>顯示；證明</td><td>demonstrate an effect／demonstrate that</td><td><span class='en'>The study demonstrates the effect.</span><br><span class='muted'>這項研究證明了這個效果。</span></td></tr><tr><td><b>linked</b></td><td>adj./pp.</td><td>有關聯的</td><td>be linked to／closely linked to</td><td><span class='en'>Mood is linked to learning.</span><br><span class='muted'>心情與學習有關。</span></td></tr><tr><td><b>related</b></td><td>adj.</td><td>相關的</td><td>be related to／closely related to</td><td><span class='en'>Stress is related to sleep.</span><br><span class='muted'>壓力與睡眠有關。</span></td></tr><tr><td><b>associate</b></td><td>v.</td><td>聯想；關聯</td><td>associate A with B／be associated with</td><td><span class='en'>I associate music with relaxation.</span><br><span class='muted'>我會把音樂和放鬆聯想在一起。</span></td></tr><tr><td><b>effect</b></td><td>n.</td><td>影響；效果</td><td>have an effect on／positive effect</td><td><span class='en'>Music has an effect on mood.</span><br><span class='muted'>音樂會影響心情。</span></td></tr><tr><td><b>affect</b></td><td>v.</td><td>影響</td><td>affect learning／affect your mood</td><td><span class='en'>Noise can affect my focus.</span><br><span class='muted'>噪音會影響我的專注力。</span></td></tr><tr><td><b>effort</b></td><td>n.</td><td>努力</td><td>make an effort／put effort into</td><td><span class='en'>I make an effort to review.</span><br><span class='muted'>我努力複習。</span></td></tr><tr><td><b>effective</b></td><td>adj.</td><td>有效的</td><td>effective learning／effective method／effective way</td><td><span class='en'>This is an effective study method.</span><br><span class='muted'>這是有效的讀書方法。</span></td></tr><tr><td><b>efficient</b></td><td>adj.</td><td>有效率的</td><td>efficient method／efficient use of time</td><td><span class='en'>This is an efficient way to study.</span><br><span class='muted'>這是有效率的讀書方式。</span></td></tr><tr><td><b>specifically</b></td><td>adv.</td><td>具體而言；特別地</td><td>specifically designed／specifically for</td><td><span class='en'>This tip is specifically for students.</span><br><span class='muted'>這個技巧特別適合學生。</span></td></tr><tr><td><b>absorb</b></td><td>v.</td><td>吸收；理解</td><td>absorb information／absorb knowledge</td><td><span class='en'>I absorb information better in silence.</span><br><span class='muted'>安靜時我更能吸收資訊。</span></td></tr><tr><td><b>memorize</b></td><td>v.</td><td>記住；背誦</td><td>memorize words／memorize a sentence</td><td><span class='en'>I memorize five words a day.</span><br><span class='muted'>我每天背五個單字。</span></td></tr><tr><td><b>distraction</b></td><td>n.</td><td>使人分心的事物；干擾</td><td>a major distraction／avoid distractions</td><td><span class='en'>My phone is a big distraction.</span><br><span class='muted'>我的手機很容易讓我分心。</span></td></tr><tr><td><b>distract</b></td><td>v.</td><td>使分心</td><td>distract A from B／easily distracted</td><td><span class='en'>Music may distract me from studying.</span><br><span class='muted'>音樂可能讓我讀書分心。</span></td></tr><tr><td><b>interfere</b></td><td>v.</td><td>干擾；妨礙</td><td>interfere with learning／interfere with sleep</td><td><span class='en'>Noise can interfere with learning.</span><br><span class='muted'>噪音會妨礙學習。</span></td></tr><tr><td><b>hinder</b></td><td>v.</td><td>阻礙</td><td>hinder learning／hinder progress</td><td><span class='en'>Loud music may hinder learning.</span><br><span class='muted'>大聲音樂可能妨礙學習。</span></td></tr><tr><td><b>disrupt</b></td><td>v.</td><td>打斷；干擾</td><td>disrupt learning／disrupt a process</td><td><span class='en'>Noise can disrupt my thinking.</span><br><span class='muted'>噪音會打斷我的思考。</span></td></tr><tr><td><b>disturb</b></td><td>v.</td><td>打擾；干擾</td><td>disturb someone／disturb sleep</td><td><span class='en'>Please do not disturb me.</span><br><span class='muted'>請不要打擾我。</span></td></tr><tr><td><b>impede</b></td><td>v.</td><td>阻礙；妨礙</td><td>impede progress／impede learning</td><td><span class='en'>Distractions can impede learning.</span><br><span class='muted'>干擾會妨礙學習。</span></td></tr><tr><td><b>wander</b></td><td>v.</td><td>走神；漫遊</td><td>mind wanders／make your mind wander</td><td><span class='en'>Music makes my mind wander.</span><br><span class='muted'>音樂讓我容易走神。</span></td></tr><tr><td><b>beneficial</b></td><td>adj.</td><td>有益的</td><td>be beneficial to／be beneficial for</td><td><span class='en'>Exercise is beneficial to students.</span><br><span class='muted'>運動對學生有益。</span></td></tr><tr><td><b>volume</b></td><td>n.</td><td>音量；量</td><td>low volume／turn down the volume</td><td><span class='en'>Please keep the volume low.</span><br><span class='muted'>請把音量保持低一點。</span></td></tr><tr><td><b>argue</b></td><td>v.</td><td>主張；認為；爭辯</td><td>argue that／argue about</td><td><span class='en'>Some students argue that music helps.</span><br><span class='muted'>有些學生主張音樂有幫助。</span></td></tr><tr><td><b>assume</b></td><td>v.</td><td>假設；認為</td><td>assume that／assume responsibility</td><td><span class='en'>Do not assume that silence is best.</span><br><span class='muted'>不要假設安靜一定最好。</span></td></tr></tbody></table></div>
+</div></section>
+
+<section id="phrases"><div class="panel">
+<h2>片語 Phrases & Collocations</h2>
+<p class="note">每個片語都搭配固定用法與短例句，建議直接整句朗讀與背誦。</p>
+<div class="grid"><div class="card"><div class="term">as a matter of fact</div>
+<div class="meaning"><b>中文：</b>事實上；其實</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>as a matter of fact, + 子句</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">As a matter of fact, I like English.</span></div>
+<div class="muted" style="margin-top:4px">事實上，我喜歡英文。</div></div><div class="card"><div class="term">in reality</div>
+<div class="meaning"><b>中文：</b>實際上；事實上</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>in reality, + 子句</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">In reality, everyone learns differently.</span></div>
+<div class="muted" style="margin-top:4px">事實上，每個人的學習方式不同。</div></div><div class="card"><div class="term">reduce stress</div>
+<div class="meaning"><b>中文：</b>減輕壓力</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>help reduce stress／reduce study stress</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Music helps me reduce stress.</span></div>
+<div class="muted" style="margin-top:4px">音樂幫助我減輕壓力。</div></div><div class="card"><div class="term">put you in a good mood</div>
+<div class="meaning"><b>中文：</b>讓你有好心情</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>put someone in a good mood</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Music puts me in a good mood.</span></div>
+<div class="muted" style="margin-top:4px">音樂讓我心情很好。</div></div><div class="card"><div class="term">research suggests that ...</div>
+<div class="meaning"><b>中文：</b>研究顯示……</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>research suggests that + 子句</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Research suggests that sleep helps learning.</span></div>
+<div class="muted" style="margin-top:4px">研究顯示睡眠有助學習。</div></div><div class="card"><div class="term">be linked to</div>
+<div class="meaning"><b>中文：</b>與……有關聯</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>be closely linked to + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Sleep is linked to learning.</span></div>
+<div class="muted" style="margin-top:4px">睡眠與學習有關。</div></div><div class="card"><div class="term">be related to</div>
+<div class="meaning"><b>中文：</b>與……有關</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>be related to + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Stress is related to sleep.</span></div>
+<div class="muted" style="margin-top:4px">壓力與睡眠有關。</div></div><div class="card"><div class="term">be associated with</div>
+<div class="meaning"><b>中文：</b>與……有關聯</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>be associated with + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Music is associated with mood.</span></div>
+<div class="muted" style="margin-top:4px">音樂與心情有關。</div></div><div class="card"><div class="term">effective learning</div>
+<div class="meaning"><b>中文：</b>有效學習</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>promote effective learning／effective learning method</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Good sleep supports effective learning.</span></div>
+<div class="muted" style="margin-top:4px">良好睡眠有助有效學習。</div></div><div class="card"><div class="term">absorb and memorize new information</div>
+<div class="meaning"><b>中文：</b>吸收並記住新資訊</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>help + 人 + absorb and memorize</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Sleep helps us memorize new information.</span></div>
+<div class="muted" style="margin-top:4px">睡眠幫助我們記住新資訊。</div></div><div class="card"><div class="term">get in the way of</div>
+<div class="meaning"><b>中文：</b>妨礙；阻礙</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>get in the way of + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Noise gets in the way of studying.</span></div>
+<div class="muted" style="margin-top:4px">噪音會妨礙讀書。</div></div><div class="card"><div class="term">interfere with</div>
+<div class="meaning"><b>中文：</b>干擾；妨礙</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>interfere with + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Noise interferes with my study.</span></div>
+<div class="muted" style="margin-top:4px">噪音會干擾我的學習。</div></div><div class="card"><div class="term">make your mind wander</div>
+<div class="meaning"><b>中文：</b>讓你走神</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>make + 人/物 + V</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Lyrics can make my mind wander.</span></div>
+<div class="muted" style="margin-top:4px">歌詞會讓我走神。</div></div><div class="card"><div class="term">in conclusion</div>
+<div class="meaning"><b>中文：</b>總而言之</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>In conclusion, + 子句</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">In conclusion, choose music carefully.</span></div>
+<div class="muted" style="margin-top:4px">總而言之，要慎選音樂。</div></div><div class="card"><div class="term">come down to</div>
+<div class="meaning"><b>中文：</b>歸結為；取決於</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>come down to + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">It comes down to your choice.</span></div>
+<div class="muted" style="margin-top:4px">這取決於你的選擇。</div></div><div class="card"><div class="term">depend on</div>
+<div class="meaning"><b>中文：</b>取決於</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>depend on + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">It depends on the music.</span></div>
+<div class="muted" style="margin-top:4px">這取決於音樂。</div></div><div class="card"><div class="term">keep the volume low</div>
+<div class="meaning"><b>中文：</b>保持低音量</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>keep + N + adj.</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Keep the volume low while studying.</span></div>
+<div class="muted" style="margin-top:4px">讀書時把音量保持低一點。</div></div><div class="card"><div class="term">turn down the volume</div>
+<div class="meaning"><b>中文：</b>調低音量</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>turn down + N</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">Please turn down the volume.</span></div>
+<div class="muted" style="margin-top:4px">請把音量調低。</div></div><div class="card"><div class="term">hit the books</div>
+<div class="meaning"><b>中文：</b>用功讀書</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>time to hit the books／need to hit the books</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">I need to hit the books tonight.</span></div>
+<div class="muted" style="margin-top:4px">我今晚需要用功讀書。</div></div><div class="card"><div class="term">avoid distractions</div>
+<div class="meaning"><b>中文：</b>避免分心</div>
+<div style="margin-top:8px"><b>搭配／句型：</b>avoid + N/V-ing</div>
+<div style="margin-top:8px"><b>例句：</b><span class="en">I turn off my phone to avoid distractions.</span></div>
+<div class="muted" style="margin-top:4px">我關掉手機以避免分心。</div></div></div>
+</div></section>
+
+<section id="grammar"><div class="panel">
+<h2>文法與易混淆重點</h2>
+<div class="rule"><h3>介系詞後接 V-ing</h3><p>老師特別提醒：介系詞後若接動作，通常使用 V-ing。例：the advantage of studying / the advantage to studying。</p></div><div class="rule"><h3>研究／數據＋顯示</h3><p>research / study / report / evidence 後常接 suggest, show, indicate, demonstrate 等，表示「研究／資料顯示」。</p></div><div class="rule"><h3>關聯性表達</h3><p>be linked to / be related to / be associated with / be connected with。注意介系詞搭配不同。</p></div><div class="rule"><h3>effect / affect / effort</h3><p>effect 多作名詞「效果／影響」；affect 多作動詞「影響」；effort 是「努力」。</p></div><div class="rule"><h3>effective / efficient</h3><p>effective = 有效、重結果；efficient = 有效率、重過程與資源使用；efficiency 是名詞「效率」。</p></div><div class="rule"><h3>answer to the question</h3><p>「問題的答案」用 the answer to the question，不用 *answer of the question。</p></div><div class="rule"><h3>come down to</h3><p>The answer comes down to ... = 答案歸結為／取決於……，語意接近 depend on。</p></div><div class="rule"><h3>argue that / assume that / think that</h3><p>寫作時可避免只用 think that，依語氣改用 argue that（主張）或 assume that（假設／認為）。</p></div><div class="rule"><h3>while + S + V</h3><p>while they hit the books = 當他們用功讀書時。hit the books 是慣用語。</p></div>
+<div class="good"><b>最容易考錯：</b> effective（有效的） vs. efficient（有效率的）；effect（名詞影響／效果） vs. affect（動詞影響） vs. effort（努力）。</div>
+</div></section>
+
+<section id="translation"><div class="panel">
+<h2>翻譯 Translation</h2>
+<p class="note">以下句子依老師課堂講解與可確認英文內容校訂。</p>
+<div class="transrow"><div class="en">Listening to music can help reduce stress and put you in a good mood.</div><div class="zh">聽音樂可以幫助減輕壓力，並讓你有好心情。</div></div><div class="transrow"><div class="en">Research suggests that a good mood is linked to effective learning.</div><div class="zh">研究顯示，良好的心情與有效學習有關。</div></div><div class="transrow"><div class="en">Music may get in the way of your thinking process and make your mind wander.</div><div class="zh">音樂可能妨礙你的思考過程，並讓你走神。</div></div><div class="transrow"><div class="en">Overall, the answer to the question comes down to what kind of music you listen to.</div><div class="zh">總而言之，這個問題的答案取決於你聽的是哪一種音樂。</div></div><div class="transrow"><div class="en">Keep the volume low when you study.</div><div class="zh">讀書時把音量維持在低的程度。</div></div><div class="transrow"><div class="en">Some people argue that music is actually a distraction while they hit the books.</div><div class="zh">有些人認為，當他們用功讀書時，音樂其實是一種干擾。</div></div>
+</div></section>
+
+<section id="article"><div class="panel">
+<h2>文章脈絡整理</h2>
+<div class="warn"><b>說明：</b>錄音中老師是逐句講解文章，但 ASR 未保留完整書面原文；因此這裡是依老師講解內容「重建」文章脈絡，不宣稱是課本逐字原文。</div>
+<div class="reading en">Should you listen to music while studying?
+
+This question has sparked debate. As a matter of fact, music can offer some advantages to studying. Studying can be stressful, so listening to music may help reduce stress and put you in a good mood. Research suggests that a good mood is linked to effective learning. Some kinds of music may also help students absorb and memorize new information.
+
+However, music can also be distracting. Loud or fast music, especially songs with lyrics, may get in the way of your thinking process and make your mind wander.
+
+Overall, the answer comes down to what kind of music you listen to. If music helps you study, choose lighter music, avoid distracting lyrics, and keep the volume low.</div>
+<h3 style="margin-top:18px">中文理解</h3>
+<div class="reading">你讀書時應該聽音樂嗎？
+
+這個問題引發了辯論。事實上，音樂對讀書可能有一些好處。讀書可能很有壓力，因此聽音樂或許能幫助減輕壓力，並讓你保持好心情。研究顯示，良好的心情與有效學習有關。有些類型的音樂也可能幫助學生吸收並記住新資訊。
+
+然而，音樂也可能造成分心。吵雜或節奏很快的音樂，尤其是有歌詞的歌曲，可能妨礙你的思考過程，讓你走神。
+
+總而言之，答案取決於你聽的是哪一種音樂。如果音樂確實能幫助你讀書，可以選擇較輕柔的音樂、避開容易分心的歌詞，並把音量保持低。</div>
+</div></section>
+
+<section id="summary"><div class="panel">
+<h2>課堂摘要｜考前 5 分鐘版</h2>
+<ul class="summary">
+<li><b>主題：</b>讀書時聽音樂究竟幫助還是干擾學習。</li>
+<li><b>debate / controversy：</b>辯論、爭議。</li>
+<li><b>事實上：</b>as a matter of fact / actually / in reality。</li>
+<li><b>音樂的可能好處：</b>reduce stress、put you in a good mood；好心情與 effective learning 有關。</li>
+<li><b>研究顯示：</b>research suggests / shows / indicates / demonstrates ...；寫作要學會同義替換。</li>
+<li><b>關聯：</b>be linked to / be related to / be associated with / be connected with。</li>
+<li><b>核心易混：</b>effect / affect / effort；effective / efficient。</li>
+<li><b>吸收新資訊：</b>absorb and memorize new information。</li>
+<li><b>音樂的可能壞處：</b>get in the way of your thinking process、interfere with、hinder、disrupt、disturb、impede；make your mind wander。</li>
+<li><b>結論：</b>the answer comes down to / depends on what kind of music you listen to；避免歌詞、音量保持低。</li>
+<li><b>volume：</b>核心概念是「量」；可指音量、容量／體積、數量、冊；turn up/down the volume。</li>
+<li><b>寫作升級：</b>think that → argue that / assume that。</li>
+<li><b>最後背誦句：</b>Some people argue that music is actually a distraction while they hit the books.</li>
+<li><b>回家作業：</b>做閱讀領航員、整理搭配詞而非只抄單字、做綜合測驗／篇章結構／翻譯題並對答案。</li>
+</ul>
+</div></section>
+
+<section id="memorize"><div class="panel">
+<h2>背誦模式</h2>
+<p class="note">第一部分背單字／片語；第二部分直接練老師最後要求全班背的完整句。</p>
+<div id="flash" class="flash" onclick="flip()"><div id="front" class="front"></div><div id="back" class="back"></div></div>
+<div class="progress"><div id="bar"></div></div>
+<div class="small"><span id="pos"></span><span id="known"></span></div>
+<div class="controls"><button class="btn secondary" onclick="prev()">上一張</button><button class="btn" onclick="flip()">翻卡</button><button class="btn secondary" onclick="next()">下一張</button><button class="btn green" onclick="markKnown()">✓ 會了</button><button class="btn secondary" onclick="shuffle()">隨機</button><button class="btn secondary" onclick="speakCard()">🔊 念英文</button></div>
+<h3 style="margin-top:28px">核心句填空背誦</h3>
+<div class="memory-sentence">Some people <span class="blank">argue that</span> music is <span class="blank">actually</span> a <span class="blank">distraction</span> while they <span class="blank">hit the books</span>.</div>
+<div class="controls"><button class="btn" onclick="toggleBlanks()">顯示／隱藏答案</button><button class="btn secondary" onclick="speakSentence()">🔊 播放英文</button></div>
+</div></section>
+
+<section id="quiz"><div class="panel">
+<h2>課堂測驗｜20 題</h2>
+<p class="note">送出後會立即顯示分數與每題解析。</p>
+<div id="quizArea"></div>
+<div class="controls"><button class="btn" onclick="grade()">送出答案</button><button class="btn secondary" onclick="renderQuiz()">重新測驗</button></div>
+<div id="score" class="score"></div>
+</div></section>
+</main>
+<footer>2026-10-02 高一英文課｜互動複習｜單檔離線 HTML</footer>
+
+<script>
+const tabs=[...document.querySelectorAll('.tab')], secs=[...document.querySelectorAll('main section')];
+tabs.forEach(b=>b.onclick=()=>{tabs.forEach(x=>x.classList.remove('active'));b.classList.add('active');secs.forEach(s=>s.classList.toggle('active',s.id===b.dataset.tab));window.scrollTo({top:document.querySelector('nav').offsetTop,behavior:'smooth'});});
+const cards=[["debate", "辯論；討論。a debate over/about + 議題"], ["controversy", "爭議；論戰。controversy over/surrounding + 議題"], ["as a matter of fact", "事實上；其實"], ["actually", "其實；事實上。注意：不是「目前」。"], ["in reality", "實際上；事實上"], ["reduce / decrease / alleviate", "都可表達「減少／減輕」，alleviate 較進階"], ["put you in a good mood", "讓你有好心情"], ["research suggests that ...", "研究顯示／指出……"], ["be linked to", "與……有關聯"], ["be related to", "與……有關"], ["be associated with", "與……有關聯"], ["effect / affect / effort", "effect=效果；affect=影響(v.)；effort=努力"], ["effective / efficient", "effective 重結果；efficient 重過程／效率"], ["specifically", "特別地；具體而言"], ["absorb and memorize", "吸收並記住"], ["get in the way of", "妨礙；阻礙"], ["interfere with", "干擾；妨礙"], ["hinder / impede", "阻礙；impede 較正式"], ["make your mind wander", "讓你走神"], ["come down to", "歸結為；取決於"], ["beneficial", "有益的；benefit 的形容詞"], ["volume", "音量／容量／體積／冊；核心概念是「量」"], ["turn down the volume", "調低音量"], ["hit the books", "用功讀書"], ["Some people argue that music is actually a distraction while they hit the books.", "有些人認為，他們用功讀書時，音樂其實是一種干擾。"]]; let order=[...cards.keys()], idx=0;
+let learned=new Set(JSON.parse(localStorage.getItem('hseng_known')||'[]'));
+function draw(){const c=cards[order[idx]], f=document.getElementById('flash');f.classList.remove('revealed');front.textContent=c[0];back.textContent=c[1];pos.textContent=`第 ${idx+1} / ${cards.length} 張`;known.textContent=`已會 ${learned.size} / ${cards.length}`;bar.style.width=(learned.size/cards.length*100)+'%';}
+function flip(){flash.classList.toggle('revealed')} function next(){idx=(idx+1)%cards.length;draw()} function prev(){idx=(idx-1+cards.length)%cards.length;draw()}
+function markKnown(){learned.add(order[idx]);localStorage.setItem('hseng_known',JSON.stringify([...learned]));next();}
+function shuffle(){for(let i=order.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[order[i],order[j]]=[order[j],order[i]]}idx=0;draw();}
+function speak(t){speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=.86;speechSynthesis.speak(u);}
+function speakCard(){speak(cards[order[idx]][0])} function speakSentence(){speak('Some people argue that music is actually a distraction while they hit the books.')} draw();
+function toggleBlanks(){document.querySelectorAll('.blank').forEach(x=>x.classList.toggle('show'))}
+
+const quiz=[{"q": "controversy 最接近哪個意思？", "c": ["效率", "爭議", "容量", "證據"], "a": 1, "e": "controversy = 爭議、論戰。"}, {"q": "「事實上／其實」可用哪個片語？", "c": ["in conclusion", "as a matter of fact", "in the way of", "a high volume of"], "a": 1, "e": "as a matter of fact = 事實上／其實。"}, {"q": "actually 的意思是？", "c": ["目前", "其實／事實上", "最後", "特別地"], "a": 1, "e": "currently 才是「目前」；actually 是「其實／事實上」。"}, {"q": "「減輕壓力」最自然的搭配是？", "c": ["reduce stress", "reduce books", "reduce mood", "reduce evidence"], "a": 0, "e": "reduce stress = 減輕壓力。"}, {"q": "put you in a good mood 是？", "c": ["讓你分心", "讓你有好心情", "使你讀書", "降低音量"], "a": 1, "e": "mood = 心情。"}, {"q": "Research ___ that a good mood is linked to learning.", "c": ["suggests", "hits", "wanders", "volumes"], "a": 0, "e": "research suggests that... = 研究顯示／指出……"}, {"q": "be linked ___ learning", "c": ["with", "at", "to", "of"], "a": 2, "e": "固定搭配 be linked to。"}, {"q": "effective 與 efficient 的差別？", "c": ["兩者完全相同", "effective 重結果；efficient 重效率／過程", "effective 是名詞", "efficient 只表示影響"], "a": 1, "e": "這是老師特別強調的易混淆點。"}, {"q": "哪一組正確？", "c": ["effect=努力；effort=影響", "affect=動詞影響；effect=名詞效果", "affect=效率；effect=努力", "effort=爭議"], "a": 1, "e": "affect 常作動詞；effect 常作名詞；effort=努力。"}, {"q": "absorb and memorize new information 是？", "c": ["吸收並記住新資訊", "調高音量", "妨礙新資訊", "討論新資訊"], "a": 0, "e": "absorb=吸收；memorize=記住。"}, {"q": "get in the way of 最接近？", "c": ["支持", "阻礙", "記住", "顯示"], "a": 1, "e": "get in the way of = 妨礙／阻礙。"}, {"q": "interfere 後常接哪個介系詞？", "c": ["to", "of", "with", "at"], "a": 2, "e": "interfere with。"}, {"q": "make your mind wander 是？", "c": ["讓你走神", "讓你有好心情", "讓你更有效率", "讓你背單字"], "a": 0, "e": "mind wander = 思緒飄走、走神。"}, {"q": "the answer ___ the question", "c": ["of", "to", "with", "from"], "a": 1, "e": "the answer to the question。"}, {"q": "come down to 在課文語境中最接近？", "c": ["取決於／歸結為", "調低", "證明", "爭論"], "a": 0, "e": "come down to ≈ depend on。"}, {"q": "beneficial 的名詞字根是？", "c": ["benefit", "volume", "basis", "process"], "a": 0, "e": "benefit → beneficial。"}, {"q": "「調低音量」是？", "c": ["turn down the volume", "turn over the volume", "put down the volume", "get in the volume"], "a": 0, "e": "turn down the volume。"}, {"q": "a high volume of traffic 是？", "c": ["低音量", "大量車流／高交通量", "很多書", "有效學習"], "a": 1, "e": "volume 也可表數量；a high volume of traffic = 大量車流。"}, {"q": "hit the books 是？", "c": ["把書打壞", "買書", "用功讀書", "閱讀小說"], "a": 2, "e": "hit the books 是慣用語，表示用功讀書。"}, {"q": "課堂最後要求背誦的句子是哪一句？", "c": ["Some people argue that music is actually a distraction while they hit the books.", "Music is always good for everyone.", "Research is a high volume of traffic.", "In reality, books disturb the volume."], "a": 0, "e": "這句是老師最後反覆帶全班做口說／背誦的核心句。"}];
+function renderQuiz(){document.getElementById('quizArea').innerHTML=quiz.map((x,i)=>`<div class="quizq" id="q${i}"><h4>${i+1}. ${x.q}</h4>${x.c.map((c,j)=>`<label><input type="radio" name="q${i}" value="${j}"> ${c}</label>`).join('')}<div class="explain" id="e${i}"></div></div>`).join('');score.textContent='';}
+function grade(){let s=0;quiz.forEach((x,i)=>{const q=document.getElementById('q'+i),pick=document.querySelector(`input[name="q${i}"]:checked`),ex=document.getElementById('e'+i);q.classList.remove('correct','wrong');ex.style.display='block';if(pick&&Number(pick.value)===x.a){s++;q.classList.add('correct');ex.textContent='✓ '+x.e}else{q.classList.add('wrong');ex.textContent='✗ '+x.e+' 正確答案：'+x.c[x.a]}});document.getElementById('score').textContent=`得分：${s} / ${quiz.length}（${Math.round(s/quiz.length*100)}%）`;}
+renderQuiz();
+</script>
+</body></html>
