@@ -5,7 +5,7 @@
 https://ericliang12345.github.io/seniro-high-school/physics-force-concept.html
 
 3-1 物體的運動
-https://ericliang12345.github.io/seniro-high-school/1-physics-3-1-object-movement.html
+https://ericliang12345.github.io/seniro-high-school/G1-S_Physics-U_3-1-object-movement.html
 
 
 # English
