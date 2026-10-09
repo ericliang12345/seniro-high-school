@@ -19,3 +19,9 @@
 
 [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-1.html)
 
+# 地科
+
+## 高一
+一段
+[一段總複習](https://ericliang12345.github.io/seniro-high-school/Math/高一地球科學_翰林第1-2章_全圖解互動教學與40題測驗.html)
+
