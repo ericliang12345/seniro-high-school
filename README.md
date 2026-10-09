@@ -5,6 +5,7 @@
 2-2 [基本作用力](https://ericliang12345.github.io/seniro-high-school/Physics/physics-force-concept.html)
 
 3-1 [物體的運動](https://ericliang12345.github.io/seniro-high-school/Physics/G1-S_Physics-U_3-1-object-move.html)
+
 3-2 [力的作用](https://ericliang12345.github.io/seniro-high-school/Physics/高一物理_力的作用.html)
 
 # 數學
@@ -26,3 +27,8 @@
 一段
 [一段總複習 地球的歷史、固態地球的結構](https://ericliang12345.github.io/seniro-high-school/Math/高一地球科學_翰林第1-2章_全圖解互動教學與40題測驗.html)
 
+# 公民
+
+## 高一
+一段
+[公民與人權、國家主權與認同](https://ericliang12345.github.io/seniro-high-school/Math/高一公民一段-公民身份與人權_國家主權與認同.html)
