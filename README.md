@@ -34,6 +34,7 @@
 [公民與人權、國家主權與認同](https://ericliang12345.github.io/seniro-high-school/Math/高一公民一段-公民身份與人權_國家主權與認同.html)
 
 # 歷史
-
-一段
-[0.緒論 如何認識過去](https://ericliang12345.github.io/seniro-high-school/Math/history_ch0_full_exam_50_explained.html)
+## 一段
+[0.緒論-如何認識過去](https://ericliang12345.github.io/seniro-high-school/Math/history_ch0_50quiz_individual_answers.html)
+[1.原住民族的今昔](https://ericliang12345.github.io/seniro-high-school/Math/history_ch1_15quiz_answers.html)
+[2.日久他鄉成故鄉](https://ericliang12345.github.io/seniro-high-school/Math/history_ch2_75quiz_answers.html)
