@@ -41,4 +41,4 @@
 # 國文
 * [1.桃花源記](https://ericliang12345.github.io/seniro-high-school/Math/g1-chinese-01.html)
 * [2.再見康橋](https://ericliang12345.github.io/seniro-high-school/Math/G1_Chinese-02-再別康橋_高一段考互動複習.html)
-* [1.桃花源記](https://ericliang12345.github.io/seniro-high-school/Math/G1_Chinese-3-樂府古詩選.html)
+* [3.桃花源記](https://ericliang12345.github.io/seniro-high-school/Math/G1_Chinese-3-樂府古詩選.html)
