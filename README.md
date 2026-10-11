@@ -13,6 +13,7 @@
 ## 高一
 * [2026/9/17](https://ericliang12345.github.io/seniro-high-school/English/english-20261002.html)
 * [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-1.html)
+* [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-2.html)
 
 # 地科
 ## 高一
