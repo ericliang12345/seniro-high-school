@@ -40,6 +40,7 @@
 |---|---|
 | Ch 1 | [為什麼要學地理](https://ericliang12345.github.io/seniro-high-school/Geography/高一地理_第一章_第一次段考互動複習.html) |
 | Ch 2 | [地圖（高一地理第一冊）](https://ericliang12345.github.io/seniro-high-school/Geography/G1_上_地理_地圖.html) |
+| Ch 3 | [地理資訊（高一地理第一冊）](https://ericliang12345.github.io/seniro-high-school/Geography/G1_上_地理_地理資訊.html) |
 
 ## 國文
 | 單元 | 複習網站 |
