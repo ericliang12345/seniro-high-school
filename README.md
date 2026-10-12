@@ -35,6 +35,11 @@
 | Ch 1 | [原住民族的今昔](https://ericliang12345.github.io/seniro-high-school/History/history_ch1_15quiz_answers.html) |
 | Ch 2 | [日久他鄉成故鄉](https://ericliang12345.github.io/seniro-high-school/History/history_ch2_75quiz_answers.html) |
 
+## 地理
+| 單元 | 複習網站 |
+|---|---|
+| Ch 1 | [為什麼要學地理](https://ericliang12345.github.io/seniro-high-school/Geography/高一地理_第一章_第一次段考互動複習.html) |
+
 ## 國文
 | 單元 | 複習網站 |
 |---|---|
