@@ -20,23 +20,23 @@
 # 地科
 ## 高一
 一段
-* [一段總複習 地球的歷史、固態地球的結構](https://ericliang12345.github.io/seniro-high-school/Math/高一地球科學_翰林第1-2章_全圖解互動教學與40題測驗.html)
+* [一段總複習 地球的歷史、固態地球的結構](https://ericliang12345.github.io/seniro-high-school/EarthScience/高一地球科學_翰林第1-2章_全圖解互動教學與40題測驗.html)
 
 # 公民
 ## 高一
 一段
-* [ch1-公民與人權、 ch2- 國家主權與認同](https://ericliang12345.github.io/seniro-high-school/Math/高一公民一段-公民身份與人權_國家主權與認同.html)
+* [ch1-公民與人權、 ch2- 國家主權與認同](https://ericliang12345.github.io/seniro-high-school/Civics/高一公民一段-公民身份與人權_國家主權與認同.html)
 
 # 歷史
 ## 高一
 一段
-* [0.緒論-如何認識過去](https://ericliang12345.github.io/seniro-high-school/Math/history_ch0_50quiz_individual_answers.html)
-* [1.原住民族的今昔](https://ericliang12345.github.io/seniro-high-school/Math/history_ch1_15quiz_answers.html)
-* [2.日久他鄉成故鄉](https://ericliang12345.github.io/seniro-high-school/Math/history_ch2_75quiz_answers.html)
+* [0.緒論-如何認識過去](https://ericliang12345.github.io/seniro-high-school/History/history_ch0_50quiz_individual_answers.html)
+* [1.原住民族的今昔](https://ericliang12345.github.io/seniro-high-school/History/history_ch1_15quiz_answers.html)
+* [2.日久他鄉成故鄉](https://ericliang12345.github.io/seniro-high-school/History/history_ch2_75quiz_answers.html)
 
 # 國文
 ## 高一
 一段
-* [1.桃花源記](https://ericliang12345.github.io/seniro-high-school/Math/g1-chinese-01.html)
-* [2.再見康橋](https://ericliang12345.github.io/seniro-high-school/Math/G1_Chinese-02-再別康橋_高一段考互動複習.html)
-* [3.樂府古詩選](https://ericliang12345.github.io/seniro-high-school/Math/G1_Chinese-3-樂府古詩選.html)
+* [1.桃花源記](https://ericliang12345.github.io/seniro-high-school/Chinese/g1-chinese-01.html)
+* [2.再見康橋](https://ericliang12345.github.io/seniro-high-school/Chinese/G1_Chinese-02-再別康橋_高一段考互動複習.html)
+* [3.樂府古詩選](https://ericliang12345.github.io/seniro-high-school/Chinese/G1_Chinese-3-樂府古詩選.html)
