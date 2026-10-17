@@ -18,6 +18,7 @@
 | 單元 | 複習網站 |
 |---|---|
 | 課堂 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/english-20261002.html) |
+| 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/english-exam-1-20261013.html) |
 | 一段 | [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-1.html) |
 | 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-2.html) |
 
