@@ -54,4 +54,4 @@
 | 第 1 課 | [桃花源記](https://ericliang12345.github.io/seniro-high-school/Chinese/g1-chinese-01.html) |
 | 第 2 課 | [再別康橋](https://ericliang12345.github.io/seniro-high-school/Chinese/G1_Chinese-02-再別康橋_高一段考互動複習.html) |
 | 第 3 課 | [樂府古詩選](https://ericliang12345.github.io/seniro-high-school/Chinese/G1_Chinese-3-樂府古詩選.html) |
-| 一段 | [段考考卷與訂正](https://ericliang12345.github.io/seniro-high-school/Chinese/chinese-exam-1-20261013.html.html) | 
+| 一段 | [段考考卷與訂正](https://ericliang12345.github.io/seniro-high-school/Chinese/chinese-exam-1-20261013.html) | 
