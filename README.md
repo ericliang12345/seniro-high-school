@@ -18,9 +18,9 @@
 | 單元 | 複習網站 |
 |---|---|
 | 課堂 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/english-20261002.html) |
-| 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/english-exam-1-20261013.html) |
 | 一段 | [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-1.html) |
 | 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-2.html) |
+| 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/english-exam-1-20261013.html) |
 
 ## 地球科學
 | 單元 | 複習網站 |
@@ -35,10 +35,10 @@
 ## 歷史
 | 單元 | 複習網站 |
 |---|---|
-| 一段 | [段考考卷與訂正](https://ericliang12345.github.io/seniro-high-school/History/history-exam-1-20261014.html) | 
 | Ch 0 | [緒論：如何認識過去](https://ericliang12345.github.io/seniro-high-school/History/history_ch0_50quiz_individual_answers.html) |
 | Ch 1 | [原住民族的今昔](https://ericliang12345.github.io/seniro-high-school/History/history_ch1_15quiz_answers.html) |
 | Ch 2 | [日久他鄉成故鄉](https://ericliang12345.github.io/seniro-high-school/History/history_ch2_75quiz_answers.html) |
+| 一段 | [段考考卷與訂正](https://ericliang12345.github.io/seniro-high-school/History/history-exam-1-20261014.html) | 
 
 ## 地理
 | 單元 | 複習網站 |
@@ -53,3 +53,4 @@
 | 第 1 課 | [桃花源記](https://ericliang12345.github.io/seniro-high-school/Chinese/g1-chinese-01.html) |
 | 第 2 課 | [再別康橋](https://ericliang12345.github.io/seniro-high-school/Chinese/G1_Chinese-02-再別康橋_高一段考互動複習.html) |
 | 第 3 課 | [樂府古詩選](https://ericliang12345.github.io/seniro-high-school/Chinese/G1_Chinese-3-樂府古詩選.html) |
+| 一段 | [段考考卷與訂正](https://ericliang12345.github.io/seniro-high-school/Chinese/chinese-exam-1-20261013.html.html) | 
