@@ -14,13 +14,10 @@
 | 一段 | [數與式-總複習](https://ericliang12345.github.io/seniro-high-school/Math/高一數學_第一章_數與式_一段總複習.html) |
 | 一段 | [指數與對數-總複習](https://ericliang12345.github.io/seniro-high-school/Math/高一數學_第二章_指數與對數_逐題精準裁切_高解析更新版.html) |
 
-## 英文
-| 單元 | 複習網站 |
+# 目錄
+| 科目 | 網站 |
 |---|---|
-| 課堂 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/english-20261002.html) |
-| 一段 | [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-1.html) |
-| 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1st_Test_Review-2.html) |
-| 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/english-exam-1-20261013.html) |
+| 英文 | [英文](https://ericliang12345.github.io/seniro-high-school/English/) |
 
 ## 地球科學
 | 單元 | 複習網站 |
