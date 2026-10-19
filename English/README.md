@@ -12,4 +12,4 @@
 | 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-2.html) |
 | 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/G1-1/english-exam-1-20261013.html) |
 
-[Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
+# [Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
