@@ -17,7 +17,7 @@
 # 目錄
 | 科目 | 網站 |
 |---|---|
-| 英文 | [英文](https://github.com/ericliang12345/seniro-high-school/English/) |
+| 英文 | [英文](https://github.com/ericliang12345/seniro-high-school/tree/main/English/) |
 
 ## 地球科學
 | 單元 | 複習網站 |
