@@ -14,7 +14,7 @@
 
 # [地科](https://github.com/ericliang12345/seniro-high-school/tree/main/EarthScience/) 
 
-#　[公民](https://github.com/ericliang12345/seniro-high-school/tree/main/Civics/) 
+# [公民](https://github.com/ericliang12345/seniro-high-school/tree/main/Civics/) 
 
 
 
