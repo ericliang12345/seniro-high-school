@@ -1,16 +1,13 @@
 
-## 數學
-| 單元 | 複習網站 |
-|---|---|
-| — | [指數與對數](https://ericliang12345.github.io/seniro-high-school/Math/Grade_1-Math-Exponents_and_Logarithms.html) |
-| 一段 | [數與式-總複習](https://ericliang12345.github.io/seniro-high-school/Math/高一數學_第一章_數與式_一段總複習.html) |
-| 一段 | [指數與對數-總複習](https://ericliang12345.github.io/seniro-high-school/Math/高一數學_第二章_指數與對數_逐題精準裁切_高解析更新版.html) |
+
 
 # 目錄
 | 科目 | 網站 |
 |---|---|
 | 英文 | [英文](https://github.com/ericliang12345/seniro-high-school/tree/main/English/) |
+| 數學 | [數學](https://github.com/ericliang12345/seniro-high-school/tree/main/Math/) |
 | 物理 | [物理](https://github.com/ericliang12345/seniro-high-school/tree/main/Physics/) |
+
 
 ## 地球科學
 | 單元 | 複習網站 |
