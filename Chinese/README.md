@@ -7,4 +7,4 @@
 | 一段 | [段考考卷與訂正](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/chinese-exam-1-20261013.html) | 
 
 
-[Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
+# [Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
