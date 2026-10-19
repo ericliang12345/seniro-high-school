@@ -6,4 +6,4 @@
 | CH2 | [指數與對數-總複習](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一數學_第二章_指數與對數_逐題精準裁切_高解析更新版.html) |
 | 一段 | [訂正](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/math-exam-1-20261014.html)
 
-[Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
+# [Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
