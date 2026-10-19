@@ -1,8 +1,9 @@
 # JQ
 | 單元 | 複習網站 |
 |---|---|
-| 課堂 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261002.html) |
-| 課堂 | [10/15 ](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html) |
+| 2026-09-17 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261002.html) |
+| 2026-10-15 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html) |
+| 2026-10-15 | [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/english-news-20261015.html) |
 
 # 高一
 | 單元 | 複習網站 |
