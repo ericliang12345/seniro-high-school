@@ -1,23 +1,6 @@
 # 高一
-| 單元 | 複習網站 |
-|---|---|
-| — | [指數與對數](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Grade_1-Math-Exponents_and_Logarithms.html) |
-| CH1 | [數與式-總複習](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一數學_第一章_數與式_一段總複習.html) |
-| CH2 | [指數與對數-總複習](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一數學_第二章_指數與對數_逐題精準裁切_高解析更新版.html) |
-| 一段 | [訂正](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/math-exam-1-20261014.html)
 
 ## 二段
-
-### 複習
-| 週 | 上課筆記 | 備註 |
-|---|---| --- |
-| 一   | * [直線方程式 核心概念（斜率）](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261019.html) <br> * [多項式除法原理 × 餘式定理](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261020.html) | 10/19 - 10/23 |
-| 二   | [ ] | 10/27 - 10/30 |
-| 三   | [ ]| 11/2 - 11/6 |
-| 四   | [ ] | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
-| 六   | [ ] | 11/23 - 11/27 |
-| 二段 | [ ] | 12/1 - 12/2  |
 
 ### 課程規劃與考試規定
 ```
@@ -33,5 +16,25 @@
  * 平時成績與評分規則：
    * 上課認真、未睡覺聊天以 90 分為基準起跳，課堂積極回答問題可加至 100 分；課堂睡覺或講話則會從 90 分往下扣。
 ```
+
+### 週複習
+| 週 | 上課筆記 | 備註 |
+|---|---| --- |
+| 一   | * [直線方程式 核心概念（斜率）](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261019.html) <br> * [多項式除法原理 × 餘式定理](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261020.html) | 10/19 - 10/23 |
+| 二   | [ ] | 10/27 - 10/30 |
+| 三   | [ ]| 11/2 - 11/6 |
+| 四   | [ ] | 11/9 - 11/13 |
+| 五   | [ ] | 11/16 - 11/20 |
+| 六   | [ ] | 11/23 - 11/27 |
+| 二段 | [ ] | 12/1 - 12/2  |
+
+
+## 總整理
+| 單元 | 複習網站 |
+|---|---|
+| — | [指數與對數](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Grade_1-Math-Exponents_and_Logarithms.html) |
+| CH1 | [數與式-總複習](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一數學_第一章_數與式_一段總複習.html) |
+| CH2 | [指數與對數-總複習](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一數學_第二章_指數與對數_逐題精準裁切_高解析更新版.html) |
+| 一段 | [訂正](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/math-exam-1-20261014.html)
 
 # [Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
