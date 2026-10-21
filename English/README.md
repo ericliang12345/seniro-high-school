@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+* 目錄
+{:toc}
+
 # 高一
 
 ## JQ
