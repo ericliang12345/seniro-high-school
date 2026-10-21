@@ -1,9 +1,6 @@
 ---
-layout: default
+layout: notes
 ---
-
-* 目錄
-{:toc}
 
 # 高一
 
