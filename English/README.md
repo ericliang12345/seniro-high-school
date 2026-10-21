@@ -1,16 +1,10 @@
-# JQ
+# 高一
+
+## JQ
 | 單元 | 複習網站 |
 |---|---|
 | 2026-09-17 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261002.html) |
 | 2026-10-15 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html), [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/english-news-20261015.html) |
-
-
-# 高一
-| 單元 | 複習網站 |
-|---|---|
-| 一段 | [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-1.html) |
-| 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-2.html) |
-| 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/G1-1/english-exam-1-20261013.html) |
 
 ## 二段
 
@@ -44,6 +38,10 @@
 | Discussion / Body（正文段） | 中間肉片與配料 | 舉例說明、正反論證、提出論據支持主題。常出現轉折詞與列舉詞（如 First, Second, Finally）。 |
 | Conclusion（結論段） | 底層麵包 | 只做重述與總結，絕對不能出現新觀點或新論點。常見訊號詞為 in short（簡而言之）。 |
 
-
+| 單元 | 複習網站 |
+|---|---|
+| 一段 | [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-1.html) |
+| 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-2.html) |
+| 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/G1-1/english-exam-1-20261013.html) |
 
 # [Home](https://github.com/ericliang12345/seniro-high-school/tree/main)
