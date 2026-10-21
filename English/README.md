@@ -3,7 +3,7 @@
 - [二段](#二段)
   - [週複習](#週複習)
 - [總整理](#總整理)
-- [總目錄](https://github.com/ericliang12345/seniro-high-school/tree/main)
+- [家目錄](https://github.com/ericliang12345/seniro-high-school/tree/main)
 
 # JQ
 | 單元 | 複習網站 |
@@ -50,4 +50,4 @@
 | 一段 | [第一次段考總複習 2](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-2.html) |
 | 一段 | [考試與訂正](https://ericliang12345.github.io/seniro-high-school/English/G1-1/english-exam-1-20261013.html) |
 
-[總目錄](https://github.com/ericliang12345/seniro-high-school/tree/main)
+[家目錄](https://github.com/ericliang12345/seniro-high-school/tree/main)
