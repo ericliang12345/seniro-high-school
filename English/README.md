@@ -7,18 +7,6 @@
 | 2026-10-15 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html), [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/english-news-20261015.html) |
 
 ## 二段
-
-### 複習
-| 週 | 上課筆記 | 備註 |
-|---|---| --- |
-| 一   | [Therapy Dogs](https://ericliang12345.github.io/seniro-high-school/English/G1-1/note-g1-1-english-20261020.html) | 10/19 - 10/23 |
-| 二   | [ ] | 10/27 - 10/30 |
-| 三   | [ ]| 11/2 - 11/6 |
-| 四   | [ ] | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
-| 六   | [ ] | 11/23 - 11/27 |
-| 二段 | [ ] | 12/1 - 12/2  |
-
 ### 課程規劃與考試規定
 ```
  * 段考範圍與教材：
@@ -38,6 +26,19 @@
 | Discussion / Body（正文段） | 中間肉片與配料 | 舉例說明、正反論證、提出論據支持主題。常出現轉折詞與列舉詞（如 First, Second, Finally）。 |
 | Conclusion（結論段） | 底層麵包 | 只做重述與總結，絕對不能出現新觀點或新論點。常見訊號詞為 in short（簡而言之）。 |
 
+### 週複習
+| 週 | 上課筆記 | 備註 |
+|---|---| --- |
+| 一   | [Therapy Dogs](https://ericliang12345.github.io/seniro-high-school/English/G1-1/note-g1-1-english-20261020.html) | 10/19 - 10/23 |
+| 二   | [ ] | 10/27 - 10/30 |
+| 三   | [ ]| 11/2 - 11/6 |
+| 四   | [ ] | 11/9 - 11/13 |
+| 五   | [ ] | 11/16 - 11/20 |
+| 六   | [ ] | 11/23 - 11/27 |
+| 二段 | [ ] | 12/1 - 12/2  |
+
+
+## 總整理
 | 單元 | 複習網站 |
 |---|---|
 | 一段 | [第一次段考總複習 1](https://ericliang12345.github.io/seniro-high-school/English/G1-1/G1-1st_Test_Review-1.html) |
