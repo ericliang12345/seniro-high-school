@@ -24,7 +24,7 @@
 ## 週複習
 | 週 | 上課筆記 | 備註 |
 |---|---| --- |
-| 一   | * [直線方程式 核心概念（斜率）](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261019.html) <br> * [多項式除法原理 × 餘式定理](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261020.html) | 10/19 - 10/23 |
+| 一   | * [直線方程式 核心概念（斜率）](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5_直線方程式-w1.html) <br> * [多項式除法原理 × 餘式定理](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261020.html) | 10/19 - 10/23 |
 | 二   | [ ] | 10/27 - 10/30 |
 | 三   | [ ]| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
