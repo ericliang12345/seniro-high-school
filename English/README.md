@@ -5,6 +5,15 @@
 - [總整理](#總整理)
 - [家目錄](https://github.com/ericliang12345/seniro-high-school/tree/main)
 
+
+# JQ
+| 單元 | 複習網站 |
+|---|---|
+| 2026-09-17 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261002.html) |
+| 2026-10-15 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/english-news-20261015.html) |
+| 2026-10-22 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-20261022.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-news-2026-10-22.html) |
+
+# 二段
 ## 週複習
 | 週 | 上課筆記 | 備註 |
 |---|---| --- |
@@ -16,14 +25,7 @@
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
 
-# JQ
-| 單元 | 複習網站 |
-|---|---|
-| 2026-09-17 | [9/17 英文課複習](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261002.html) |
-| 2026-10-15 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/english-news-20261015.html) |
-| 2026-10-22 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-20261022.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-news-2026-10-22.html) |
 
-# 二段
 ## 課程規劃與考試規定
 ```
  * 段考範圍與教材：
