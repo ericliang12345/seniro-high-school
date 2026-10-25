@@ -9,7 +9,7 @@
 | 日期 | 上課筆記 | 備註 |
 |---|---| --- |
 | 2026-10-10 | [桃花源記+三國](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/Chinese-Lin-20261010.html) | |
-| 2026-10-17 | [ ](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/) | |
+| 2026-10-17 | [作文典故與國學常識](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/Chinese-Lin-20261017.html) | 課堂重點與互動測驗 |
 
 # 二段
 ## 課程規劃與考試規定
