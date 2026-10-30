@@ -14,7 +14,7 @@
 | 週 | 上課筆記 | 備註 |
 |---|---| --- |
 | 一   | [天氣與海洋](https://ericliang12345.github.io/seniro-high-school/EarthScience/G1-1/note-g1-1-2nd-w1-20261023.html) | 10/19 - 10/23 |
-| 二   | [ ] | 10/27 - 10/30 |
+| 二   | [颱風災害](https://ericliang12345.github.io/seniro-high-school/EarthScience/G1-1/地科_1029_颱風災害.html) | 10/27 - 10/30 |
 | 三   | [ ]| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
