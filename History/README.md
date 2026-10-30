@@ -16,7 +16,7 @@
 | 週 | 上課筆記 | 備註 |
 |---|---| --- |
 | 一  | [清領近代化 × 新移民新文化](https://ericliang12345.github.io/seniro-high-school/History/G1-1/note-g1-1-2nd-w1-20261020.html) | 10/19 - 10/23 |
-| 二   | [ ] | 10/27 - 10/30 |
+| 二   | [戰後軍民遷臺與新移民文化](https://ericliang12345.github.io/seniro-high-school/History/G1-1/高一歷史_20261027.html) | 10/27 - 10/30 |
 | 三   | [ ]| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
