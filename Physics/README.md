@@ -17,7 +17,7 @@
 | 週 | 上課筆記 | 備註 |
 |---|---| --- |
 | 一   | [重力、磁力、靜電、電場](https://ericliang12345.github.io/seniro-high-school/Physics/G1-1/note-g1-1-w1-20261021.html)| 10/19 - 10/23 |
-| 二   | [ ] | 10/27 - 10/30 |
+| 二   | [電生磁](https://ericliang12345.github.io/seniro-high-school/Physics/G1-1/note-g1-1-20261027.html) | 10/27 - 10/30 |
 | 三   | [ ]| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
