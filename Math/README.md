@@ -11,7 +11,7 @@
 |---|---| --- |
 | 一   | * [直線方程式 核心概念（斜率）](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5_直線方程式-w1.html) <br> <br> * [多項式除法原理 × 餘式定理](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/Math-Unit5-20261020.html) | 10/19 - 10/23 |
 | 二   | [直線方程式與二元一次不等式](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/數學_直線方程式與二元一次不等式_1027.html) | 10/27 - 10/30 |
-| 三   | [ ]| 11/2 - 11/6 |
+| 三   | [直線與不等式](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一上數學_直線與不等式-20261106.html) <br> [指數與對數](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一上數學_指數與對數-20261106.html) <br> [圓方程式](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一上數學_圓方程式-20261106.html)| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
