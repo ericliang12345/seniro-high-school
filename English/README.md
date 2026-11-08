@@ -20,8 +20,8 @@
 | 週 | 上課筆記 | 備註 |
 |---|---| --- |
 | 一   | [Therapy Dogs](https://ericliang12345.github.io/seniro-high-school/English/G1-1/note-L4-w1-20261022.html) | 10/19 - 10/23 |
-| 二   | [Sniffing Out More Than Just Bones](https://ericliang12345.github.io/seniro-high-school/English/G1-1/高一英文_L4_20261027.html) | 10/27 - 10/30 |
-| 三   | [Sniffing Out More Than Just Bones](https://ericliang12345.github.io/seniro-high-school/English/G1-1/Unit4_Sniffer_Dogs_英文重點.html)| 11/2 - 11/6 |
+| 二   | [Sniffing Out More Than Just Bones-1](https://ericliang12345.github.io/seniro-high-school/English/G1-1/高一英文_L4_20261027.html) | 10/27 - 10/30 |
+| 三   | [Sniffing Out More Than Just Bones-2](https://ericliang12345.github.io/seniro-high-school/English/G1-1/Unit4_Sniffer_Dogs_英文重點.html)| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
