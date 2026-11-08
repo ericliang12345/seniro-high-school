@@ -13,6 +13,7 @@
 | 2026-10-15 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english-20261015.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/english-news-20261015.html) |
 | 2026-10-22 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-20261022.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-news-2026-10-22.html) |
 | 2026-10-29 | [句型文法](https://ericliang12345.github.io/seniro-high-school/English/Q/english_20261029.html) <br> [新聞英文](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-news-2026-10-29.html) |
+| 2026-11-07 | [新聞英文 × 課堂重點](https://ericliang12345.github.io/seniro-high-school/English/Q/jq-news-2026-11-07.html) |
 
 # 二段
 ## 週複習
