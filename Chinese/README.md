@@ -15,8 +15,8 @@
 ## 課程規劃與考試規定
 ```
 * 課本：第 5、7、8 課。
-* 論語選讀（選兩篇半）：
-* 第一篇「人生選擇」第 1、3 則。
+* 論語選讀（11/10 老師更新：第一、二、三篇全部考）：
+* 第一篇「人生選擇」全部。
 * 第二篇「仁的實踐」第 1、2、3 則。
 * 第三篇「立志為學」第 1、2、3、4、5 則
 * 作業提醒：每週四需交國文筆記。
@@ -28,7 +28,7 @@
 | 一   | [韓愈〈師說〉](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/高一國文_韓愈師說_課本習作完整.html) | 10/19 - 10/23 |
 | 二   | [范進中舉](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/高一國文_范進中舉_1027.html) | 10/27 - 10/30 |
 | 三   | [范進中舉-2](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/范進中舉-20261106.html)<br>[孔乙己](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/孔乙己-20261106.html)| 11/2 - 11/6 |
-| 四   | [ ] | 11/9 - 11/13 |
+| 四   | [11/9–11/13 國文週複習](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/國文複習-20261109-1113.html)<br>[孔乙己](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/孔乙己-20261109-1113.html)<br>[論語第一、二篇](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/論語選讀-人生選擇仁德實踐-20261109-1113.html)<br>[論語第三篇](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/論語選讀-立志為學-20261109-1113.html) | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
