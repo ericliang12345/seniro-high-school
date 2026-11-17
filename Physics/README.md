@@ -19,7 +19,7 @@
 | 一   | [重力、磁力、靜電、電場](https://ericliang12345.github.io/seniro-high-school/Physics/G1-1/note-g1-1-w1-20261021.html)| 10/19 - 10/23 |
 | 二   | [電生磁](https://ericliang12345.github.io/seniro-high-school/Physics/G1-1/note-g1-1-20261027.html) | 10/27 - 10/30 |
 | 三   | [電磁感應與電磁波](https://ericliang12345.github.io/seniro-high-school/Physics/G1-1/高一物理_電磁感應與電磁波_20261106.html)| 11/2 - 11/6 |
-| 四   | [ ] | 11/9 - 11/13 |
+| 四   | [電磁波譜、光波特性與光學](https://ericliang12345.github.io/seniro-high-school/Physics/G1-1/高一物理_4-3_4-4_光與波複習.html) | 11/9 - 11/13 |
 | 五   | [ ] | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
