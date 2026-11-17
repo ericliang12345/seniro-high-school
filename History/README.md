@@ -19,7 +19,7 @@
 | 二   | [戰後軍民遷臺與新移民文化](https://ericliang12345.github.io/seniro-high-school/History/G1-1/高一歷史_20261027.html) | 10/27 - 10/30 |
 | 三   | [從部落社會到現代國家](https://ericliang12345.github.io/seniro-high-school/History/G1-1/高一歷史_20261106.html)| 11/2 - 11/6 |
 | 四   | [ ] | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
+| 五   | [日治三階段 × 戰後民主化 × 臺澎金馬](https://ericliang12345.github.io/seniro-high-school/History/G1-1/history_review_20261117.html) | 11/16 - 11/20；課本 P.68–72，含 10 題互動測驗 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
 
