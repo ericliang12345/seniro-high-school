@@ -13,7 +13,7 @@
 | 二   | [直線方程式與二元一次不等式](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/數學_直線方程式與二元一次不等式_1027.html) | 10/27 - 10/30 |
 | 三   | [直線與不等式](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一上數學_直線與不等式-20261106.html) <br> [指數與對數](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一上數學_指數與對數-20261106.html) <br> [圓方程式](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一上數學_圓方程式-20261106.html)| 11/2 - 11/6 |
 | 四   | [圓方程式與圓直線](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/圓方程式與圓直線_20261111.html) <br> | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
+| 五   | [圓的切線｜段考互動筆記](https://ericliang12345.github.io/seniro-high-school/Math/G1-1/高一數學_圓的切線_段考互動筆記.html)（觀念速記、例題 7～10、互動測驗） | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
 
