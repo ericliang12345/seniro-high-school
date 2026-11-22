@@ -21,7 +21,7 @@
 | 二   | [正義的理論與四大類型](https://ericliang12345.github.io/seniro-high-school/Civics/G1-1/公民-2026-10-27.html) | 10/27 - 10/30 |
 | 三   | [社會正義與社會安全](https://ericliang12345.github.io/seniro-high-school/Civics/G1-1/高一公民_社會正義與社會安全_20261106.html) | 11/2 - 11/6 |
 | 四   | [社會安全、文化平等與政府體制（互動複習）](https://ericliang12345.github.io/seniro-high-school/Civics/G1-1/高一公民_第三四課_一頁式複習.html) | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
+| 五   | [政府體制：內閣制、總統制、混合制（互動段考複習）](https://ericliang12345.github.io/seniro-high-school/Civics/G1-1/高一公民_政府體制_2026-11-16_11-20.html) | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
 
