@@ -17,7 +17,7 @@
 | 二   | [颱風災害](https://ericliang12345.github.io/seniro-high-school/EarthScience/G1-1/地科_1029_颱風災害.html) | 10/27 - 10/30 |
 | 三   | [天氣圖 × 海洋運動](https://ericliang12345.github.io/seniro-high-school/EarthScience/G1-1/地科-20261106.html)| 11/2 - 11/6 |
 | 四   | [洋流 × 聖嬰 × 反聖嬰（互動複習）](https://ericliang12345.github.io/seniro-high-school/EarthScience/G1-1/地科_洋流與聖嬰_一頁式複習.html) | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
+| 五   | [高一地科段考互動複習｜氣象 × 海岸地形](https://ericliang12345.github.io/seniro-high-school/EarthScience/G1-1/高一地科_段考互動複習.html) | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
 
