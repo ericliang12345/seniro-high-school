@@ -29,7 +29,7 @@
 | 二   | [范進中舉](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/高一國文_范進中舉_1027.html) | 10/27 - 10/30 |
 | 三   | [范進中舉-2](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/范進中舉-20261106.html)<br>[孔乙己](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/孔乙己-20261106.html)| 11/2 - 11/6 |
 | 四   | [11/9–11/13 國文週複習](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/國文複習-20261109-1113.html)<br>[孔乙己](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/孔乙己-20261109-1113.html)<br>[論語第一、二篇](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/論語選讀-人生選擇仁德實踐-20261109-1113.html)<br>[論語第三篇](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/論語選讀-立志為學-20261109-1113.html) | 11/9 - 11/13 |
-| 五   | [ ] | 11/16 - 11/20 |
+| 五   | [〈師說〉考卷訂正與段考互動複習](https://ericliang12345.github.io/seniro-high-school/Chinese/G1-1/高一國文_師說_一頁式複習_20261116-1120.html) | 11/16 - 11/20 |
 | 六   | [ ] | 11/23 - 11/27 |
 | 二段 | [ ] | 12/1 - 12/2  |
 
